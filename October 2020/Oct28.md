@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: February 30, 2016 (Example 1)
 ##### FreeCodeCamp 
 
 **Today's Progress**: Almost done with the 
