@@ -1,0 +1,1 @@
+## This is just for me to continue my coding journey and learn more. Nothing to exciting but good for growth and finding out new tech.
