@@ -2,6 +2,6 @@
 ### Day 13: February 17, 2021
 ##### FreeCodeCamp 
 
-**Today's Progress**: I finished the React section of the front end frameworks today and just began the Redux. I also kept working on my random quote machine. 
+**Today's Progress**: I finished the React section of the front end frameworks today and just began the Redux. I also kept working on my random quote machine and got a passable project but it still needs some styling.
 
 **Thoughts** I haven't ever worked with Redux so I think that this section is going to be more challenging than the React. I think that I'm going to be looking through the docs quite a lot for this section. 
