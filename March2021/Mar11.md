@@ -4,4 +4,4 @@
 
 **Today's Progress**: I began setting up my boiler plate build out for the metric converter from FCC.
 
-**Thoughts**: not to bad so far but I havent even gotten into the logic yet
+**Thoughts**: not to bad so far but I havent even gotten into the logic yet 
