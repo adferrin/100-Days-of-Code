@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-### Day 54: April 3, 2021
+### Day 55: April 4, 2021
 ##### FreeCodeCamp 
 
 **Today's Progress**: working on the tests today and got about half way through. 
