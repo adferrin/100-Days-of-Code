@@ -5,3 +5,5 @@
 **Today's Progress**: Started the info security certifcation today. 
 
 **Thoughts**: It's good so far, lots of new and interesting things to learn. 
+
+update: I finished the first section 
